@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculate_BMI</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="generic_error">Field is empty</string>
+    <string name="under_weight">Under weight!</string>
+    <string name="overweight">Overweight!</string>
+    <string name="obesity">Obesity!</string>
+    <string name="severe_obesity">Severe Obesity!</string>
+    <string name="ideal_weight">Ideal weight!</string>
+</resources>
